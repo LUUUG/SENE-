@@ -112,15 +112,15 @@
 
 			                <div class="swiper-slide">
 			                	<div class="container">
-			                		<div>« Bravo à toute l’équipe SENEO pour sa disponibilité dans le suivi de notre projet de rénovation. La réalisation est comme nous l’avions imaginé. Votre anticipation nous a permis de rester serein tout au long du chantier ».</div>
-									<p class="paragraphe big-p">Michèle C</p>
-									<p class="paragraphe">Retraitée</p>
+			                		<div>« Sachant que Seneo et Pierre Gabet ne font qu’un, les compétences professionnelles de ce dernier qui s’appuient sur 30 années d’expérience, créent un rapport de confiance instantané.<br>En effet, en rendez-vous clientèle j’ai pu observer le sérieux de Pierre, qui ne laisse rien au hasard. Chaque projet est abordé avec minutie. Avant même que le client ne se délasse dans sa nouvelle piscine, la détente est garantie dès les premiers croquis du projet. »</div>
+									<p class="paragraphe big-p">Chantal ZARNOLLI</p>
+									<p class="paragraphe">Architecte - ZARNOLLI STUDIO NICE</p>
 			                	</div>
 			                </div>
 
 			                <div class="swiper-slide">
 			                	<div class="container">
-			                		<div>« Bravo à toute l’équipe SENEO pour sa disponibilité dans le suivi de notre projet de rénovation. La réalisation est comme nous l’avions imaginé. Votre anticipation nous a permis de rester serein tout au long du chantier ».</div>
+			                		<div>« Bravo à toute l’équipe SENEO pour sa disponibilité dans le suivi de notre projet de rénovation. La réalisation est comme nous l’avions imaginé. Votre anticipation nous a permis de rester serein tout au long du chantier. »</div>
 									<p class="paragraphe big-p">Michèle C</p>
 									<p class="paragraphe">Retraitée</p>
 			                	</div>

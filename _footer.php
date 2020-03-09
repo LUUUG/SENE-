@@ -26,7 +26,7 @@
 			<a href="nopage.php">Mentions légales</a>-<a href="nopage.php">Vie privée</a>
 		</div>
 		<div>
-			Création du site web : <a href="https://www.pauwelscom.fr/" target="blank">Pauwels</a> / <a href="https://www.studioluuug.com/" target="blank">LUUUG</a>
+			Création du site web : Pauwels / <a href="https://www.studioluuug.com/" target="blank">LUUUG</a>
 		</div>
 	</div>
 </footer>

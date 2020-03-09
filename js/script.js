@@ -138,8 +138,12 @@ $(document).click(function(event) {
     slidesPerView: 1,
     spaceBetween: 0,
     speed: 800,
+    preventClicksPropagation: false,
     loop: true,
-    autoplay: true,
+    autoplay: {
+      delay: 5000,
+    },
+    delay: 5000,
     pagination: {
       el: '.swiper-slide-avis-pagination',
       type: 'bullets',
