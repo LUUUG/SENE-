@@ -22,7 +22,7 @@
 			<div class="deZoomBg" data-background="img/qui-sommes-nous-banner.jpg"></div>
 		</div>
 		<div class="contentPage">
-			
+
 			<div class="container">
 				<div class="textImg">
 					<div class="textZone">
@@ -95,7 +95,7 @@
 			                		<div class="team-presentation">
 										<img src="img/pierre-gabet.jpg" alt="Pierre Gabet">
 			                			<p class="paragraphe big-p">Ma passion pour ce métier m’a été transmise alors que j’avais 8 ans par Henri PERUCHON, fondateur de CEC et pionnier, en bon nombre de domaines, dans le métier de la piscine.</p>
-										<p class="paragraphe big-p">Conseillé de mon père pour la réalisation d’une piscine à Frontonas dans l’Isère, il m’a transmis dès lors ce doux rêve constructif à l’enfant que j’étais.</p>
+										<p class="paragraphe big-p">Conseillé de mon père pour la réalisation d’une piscine à Frontonas dans l’Isère, il a transmis dès lors ce doux rêve constructif à l’enfant que j’étais.</p>
 										<p class="paragraphe big-p">Ce métier-passion m’a conduit à m’installer dans les Alpilles en 1991 après avoir été formé par un Maître Piscinier à Saint-Tropez en 1990.</p>
 										<p class="paragraphe big-p">En 2005 je suis parti découvrir de nouvelles approches stylistiques en exerçant ce métier au Moyen-Orient. Basé à Dubai aux Emirats Arabes Unis, j’ai pu parfaire l’exercice dans les Pays du Golfe, en Asie et en Australie.</p>
 										<p class="paragraphe big-p">C’est en rentrant en France que face aux désarrois de nombreux propriétaires de piscines déçus par les prestations, ou surtout l’absence de prestations environnant la piscine, que ma décision d’accompagner les propriétaires de terrain privés, camping, village de vacances, hôtels, restaurants, mais aussi les architectes, les promoteurs, les constructeurs, m’est apparue comme une certitude.</p>
@@ -146,7 +146,7 @@
 
 		</div>
 	</section>
-	
+
 	<?php include '_footer.php'; ?>
 
 </body>

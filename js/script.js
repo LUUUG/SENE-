@@ -150,6 +150,22 @@ $(document).click(function(event) {
     }
   });
 
+  var swiper = new Swiper('.swiper-slide-spa', {
+    slidesPerView: 1,
+    spaceBetween: 0,
+    speed: 800,
+    preventClicksPropagation: false,
+    loop: true,
+    autoplay: {
+      delay: 7000,
+    },
+    pagination: {
+      el: '.swiper-slide-avis-pagination',
+      type: 'bullets',
+      clickable: true,
+    }
+  });
+
 // DATA-BACKGROUND
     $('[data-background]').each(function(){
         var i = $(this).data('background');
@@ -186,6 +202,11 @@ $(document).click(function(event) {
             $(this).parent().removeClass('active');
         }
   });
+
+//ACCORDION
+    $(".accordion").on("click", ".accordion-header", function() {
+        $(this).toggleClass("active").next().slideToggle();
+    });
 
 
 // END

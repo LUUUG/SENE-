@@ -5,10 +5,11 @@
 				<a data-navDown href="javascript:;">Prestations <i class="icon-navdown"></i></a>
 				<ul class="subNav">
 					<li><a class="clickLoad" href="prestations.php">Tout</a></li>
-					<li><a class="clickLoad" href="index.php">Piscines</a></li>
-					<li><a class="clickLoad" href="index.php">Aménagement Extérieur</a></li>
-					<li><a class="clickLoad" href="index.php">Rénovation</a></li>
-					<li><a class="clickLoad" href="index.php">Entretien</a></li>
+					<li><a class="clickLoad" href="piscines.php">Piscines</a></li>
+					<li><a class="clickLoad" href="amenagement-exterieur.php">Aménagement Extérieur</a></li>
+					<li><a class="clickLoad" href="renovation.php">Rénovation</a></li>
+					<li><a class="clickLoad" href="entretien.php">Entretien</a></li>
+					<li><a class="clickLoad" href="spa-hammam.php">SPA & Hammam</a></li>
 				</ul>
 			</li>
 			<li><a class="clickLoad" href="savoir-faire.php">Savoir-Faire</a></li>
