@@ -68,6 +68,7 @@
 									<h3>Pierre<br> <span>Gabet</span></h3>
 									<p>Dirigeant</p>
 									<a href="https://www.linkedin.com/in/pierre-gabet-39214223/" target="blank" class="icon-linkedin"></a>
+									<a class="linesHover scrollTo" href="#scrollSlider">En savoir +<span></span><span></span></a>
 								</div>
 							</div>
 						</div>
@@ -78,6 +79,7 @@
 									<h3>Katia<br> <span>Malacrino</span></h3>
 									<p>Dirigeante</p>
 									<a href="https://www.linkedin.com/in/katia-malacrino-b68798199/" target="blank" class="icon-linkedin"></a>
+									<a class="linesHover scrollTo s-next" href="#scrollSlider">En savoir +<span></span><span></span></a>
 								</div>
 							</div>
 						</div>
@@ -85,7 +87,7 @@
 				</div>
 			</div>
 
-			<div class="slider-team-bg">
+			<div class="slider-team-bg" id="scrollSlider">
 				<div class="slider-team">
 				    <div class="swiper-slide-team">
 				        <div class="swiper-wrapper">
@@ -140,6 +142,7 @@
 						<div><img src="img/partners/steel-and-style.png" alt="logo partenaire"></div>
 						<div><img src="img/partners/hygie.png" alt="logo partenaire"></div>
 						<div><img src="img/partners/leaderpool.png" alt="logo partenaire"></div>
+						<div><img src="img/partners/bioresine.png" alt="logo partenaire"></div>
 					</div>
 				</div>
 			</div>

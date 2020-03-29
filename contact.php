@@ -22,7 +22,7 @@
 			<div class="deZoomBg" data-background="img/contact-banner.jpg"></div>
 		</div>
 		<div class="contentPage">
-			
+
 			<div class="container contactPage">
 				<div class="row">
 					<div class="col-12 col-md-6">
@@ -45,7 +45,7 @@
 									<input class="data-champ-focus" id="form-name" type="text">
 								</div>
 								<div class="col-12 col-sm-6 col-md-12 col-lg-6 data-champ">
-									<label for="form-mail">Adresse mail</label>
+									<label for="form-mail">Adresse e-mail</label>
 									<input class="data-champ-focus" id="form-mail" type="email">
 								</div>
 								<div class="col-12 data-champ">
@@ -67,7 +67,7 @@
 
 		</div>
 	</section>
-	
+
 	<?php include '_footer.php'; ?>
 
 </body>

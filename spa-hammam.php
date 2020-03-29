@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
 	<meta charset="UTF-8">
-	<title>SENEŌ - SPA & Hammam</title>
+	<title>SENEŌ - SPA Sauna & Hammam</title>
 	<meta name="viewport" content="width=device-width,initial-scale=1.0">
 	<meta name="description" content="SENEŌ - SPA & Hammam"/>
 	<meta name="keywords" content="SENEŌ"/>
@@ -61,7 +61,7 @@
 
 		                <div class="swiper-slide">
 		                	<div class="container">
-		                		<div data-background="img/spa-maple.jpg"></div>
+		                		<div class="bg-mask" data-background="img/spa-maple.jpg"></div>
 		                		<div>
 									<p>Découvrez nos SPAS</p>
 									<p class="paragraphe"><strong>Notre nouvelle gamme MAPLE SPA est réalisée par une équipe française installée au Canada.</strong></p>
@@ -72,7 +72,7 @@
 
 		                <div class="swiper-slide">
 		                	<div class="container">
-		                		<div data-background="img/spa-mosaique.jpg"></div>
+		                		<div class="bg-mask" data-background="img/spa-mosaique.jpg"></div>
 		                		<div>
 									<p>Mosaïque SPA</p>
 									<p class="paragraphe">Il offre la possibilité d’un choix sur mesure de son revêtement mosaïque pour votre Centre Wellness. Equipé d’un débordement périphérique, il offre toutes les garanties d’une utilisation intensive dans le respect des règles et normes d’hygiène en vigueur.</p>
@@ -83,7 +83,7 @@
 
 		                <div class="swiper-slide">
 		                	<div class="container">
-		                		<div data-background="img/spa-two-mo.jpg"></div>
+		                		<div class="bg-mask" data-background="img/spa-two-mo.jpg"></div>
 		                		<div>
 									<p>SPA Two Mo</p>
 									<p class="paragraphe">En Verre et Inox de Steel & Style pour vous offrir un joyau unique à débordement, un très bel objet de contemplation et d’utilisation, une vision résolument moderne, artistique et exceptionnelle du spa.</p>
@@ -130,13 +130,13 @@
 
 
 
-			
 
-			
+
+
 
 		</div>
 	</section>
-	
+
 	<?php include '_footer.php'; ?>
 
 </body>

@@ -34,7 +34,7 @@
 							</div>
 						</div>
 						<div class="col-12 col-md-6 col-lg-4">
-							<div class="content-img-text">
+							<div class="content-img-text small-img">
 								<img src="img/Piscine_Charme-et-elegance.jpg" alt="Photo piscine">
 								<p class="paragraphe big-p text-center">Charme et élégance d’un cadre design et épuré</p>
 							</div>
@@ -76,7 +76,7 @@
 			                    <div class="accordion-header">Le revêtement CHUKUM</div>
 			                    <div class="accordion-content">
 			                        <p class="paragraphe">Revêtement d’étanchéité naturel, nuancé, non uniforme, naturellement fongicide. Il est utilisé dans l’antiquité par les Mayas qui ont baptisé l’arbre endémique sauvage Harvadia Albicans du nom de Chukum.</p>
-			                        <p class="paragraphe">C’est sur la péninsule du Yucatan que l’on va recueillir la sève de cet arbre épineux qui sert également à teindre les textiles, à tanner les peaux et dont on extrait les tanins qui donnent à nos revêtements piscines leur couleur d’exception. Il permet également l’habillage de pool-house, de plage (terrasses) en offrant ainsi une continuité visuelle naturelle et splendide pour évoluer en contact permanent avec la nature.</p>
+			                        <p class="paragraphe">C’est sur la péninsule du Yucatan que l’on va recueillir la sève de cet arbre épineux qui sert également à teindre les textiles, à tanner les peaux et dont on extrait les tanins qui donnent à nos revêtements piscines leur couleur d’exception. Il permet également l’habillage de pool-house, de plages (terrasses) en offrant ainsi une continuité visuelle naturelle et splendide pour évoluer en contact permanent avec la nature.</p>
 			                    </div>
 
 			                    <div class="accordion-header">Le revêtement GRESENEO ASIE</div>
@@ -86,9 +86,9 @@
 
 			                    <div class="accordion-header">Le revêtement GRESENEO ITALIE</div>
 			                    <div class="accordion-content">
-			                        <p class="paragraphe">Sélectionnées en Italie, notre gamme Grès cérame disponible en différentes dimensions, offre un aspect moderne, design et épuré à votre piscine et permet une extension sur les plages/terrasses donnant ainsi une continuité esthétique de votre espace.</p>
-			                        <p class="paragraphe">SENEO c’est aussi et surtout la liberté de choix dans le style et la forme de votre piscine : couloir de nage, miroir, débordement, oasis, plan d’eau, lagon, cascade, rochers reconstitués, rivière d’eau, salon d’eau, parois vitrées, aspect moderne ou reconstitution de vieux bassins. Tout est possible.</p>
-									<p class="paragraphe">Seneo c’est aussi la liberté du lieu grâce à notre structure béton armé ou notre gamme Inox: du petit terrain urbain au flanc de montagne, du bord d’un lac au bord de mer, d’un terrain marécageux au toit terrasse ou penthouse, en France comme à l’international, nous réalisons votre piscine dans les règles de l’art et le respect de l’environnement.
+			                        <p class="paragraphe">Sélectionnée en Italie, notre gamme Grès cérame disponible en différentes dimensions, offre un aspect moderne, design et épuré à votre piscine et permet une extension sur les plages/terrasses donnant ainsi une continuité esthétique de votre espace.</p>
+			                        <p class="paragraphe">SENEŌ c’est aussi et surtout la liberté de choix dans le style et la forme de votre piscine : couloir de nage, miroir, débordement, oasis, plan d’eau, lagon, cascade, rochers reconstitués, rivière d’eau, salon d’eau, parois vitrées, aspect moderne ou reconstitution de vieux bassins. Tout est possible.</p>
+									<p class="paragraphe">Seneō c’est aussi la liberté du lieu grâce à notre structure béton armé ou notre gamme Inox : du petit terrain urbain à flanc de montagne, du bord d’un lac au bord de mer, d’un terrain marécageux au toit terrasse ou penthouse, en France comme à l’international, nous réalisons votre piscine dans les règles de l’art et le respect de l’environnement.
 									</p>
 			                    </div>
 
@@ -96,8 +96,8 @@
 						</div>
 					</div>
 				</div>
-				
-				
+
+
 				<div class="piscine-focus">
 					<h2 class="title title-right" data-title="Focus">Les plus</h2>
 					<div class="row">
@@ -108,8 +108,8 @@
 										<div class="focus-img" data-background="img/piscine-debordement.jpg">
 											<img class="plus" src="img/plus.png" alt="en savoir plus">
 											<div>
-												<p>Paroi vitrée</p>
-												<p>Optez pour la transparence de nos parois vitrées pour la réalisation d’un débordement, d’un hublot ou d’un spectaculaire puits de lumière.</p>
+												<p>Piscine à débordement</p>
+												<p>La piscine à débordement une solution esthétique pour une eau plus propre naturellement.</p>
 											</div>
 										</div>
 									</div>
@@ -130,8 +130,8 @@
 										<div class="focus-img" data-background="img/piscine-vitree.jpg">
 											<img class="plus" src="img/plus.png" alt="en savoir plus">
 											<div>
-												<p>Piscine miroir</p>
-												<p>La piscine miroir, un débordement périphérique pour un écoulement optimal et silencieux, et une eau scintillante.</p>
+												<p>Paroi vitrée</p>
+												<p>Optez pour la transparence de nos parois vitrées pour la réalisation d’un débordement, d’un hublot ou d’un spectaculaire puits de lumière.</p>
 											</div>
 										</div>
 									</div>
@@ -143,8 +143,8 @@
 								<div class="focus-img" data-background="img/piscine-miroir.jpg">
 									<img class="plus" src="img/plus.png" alt="en savoir plus">
 									<div>
-										<p>Piscine à débordement</p>
-										<p>La piscine à débordement une solution esthétique pour une eau plus propre naturellement.</p>
+										<p>Piscine miroir</p>
+										<p>La piscine miroir, un débordement périphérique pour un écoulement optimal et silencieux, et une eau scintillante.</p>
 									</div>
 								</div>
 							</div>
@@ -156,7 +156,7 @@
 			</div>
 		</div>
 	</section>
-	
+
 	<?php include '_footer.php'; ?>
 
 </body>

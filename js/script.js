@@ -131,6 +131,10 @@ $(document).click(function(event) {
       el: '.swiper-slide-team-pagination',
       type: 'bullets',
       clickable: true,
+    },
+    navigation: {
+      nextEl: '.s-next',
+      prevEl: '.s-prev',
     }
   });
 
@@ -165,6 +169,11 @@ $(document).click(function(event) {
       clickable: true,
     }
   });
+
+// ATOUT SLIDER SCROLL
+
+
+
 
 // DATA-BACKGROUND
     $('[data-background]').each(function(){

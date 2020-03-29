@@ -24,7 +24,7 @@
 		<div class="contentPage savoirFairePage">
 
 			<div class="container xl-container">
-				
+
 				<div class="textImg">
 					<div class="textZone">
 						<h1 class="title" data-title="Rénovation">Nos rénovations</h1>
@@ -64,7 +64,7 @@
 			</div>
 		</div>
 	</section>
-	
+
 	<?php include '_footer.php'; ?>
 
 </body>

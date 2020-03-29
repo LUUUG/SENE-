@@ -27,7 +27,7 @@
 				<div class="textImg">
 					<div class="textZone2">
 						<h1 class="title" data-title="Entretien">L'entretien</h1>
-						<p class="paragraphe">Pour garantir une eau toujours propre, et un environnement de qualité, l'entretien  régulier de la station de filtration et de ses éléments satellites (pompe à chaleur, traitement d'eau automatique, nage à contre-courant, système de protection et sécurité....) est indispensable.</p>
+						<p class="paragraphe">Pour garantir une eau toujours propre et un environnement de qualité, l'entretien  régulier de la station de filtration et de ses éléments satellites (pompe à chaleur, traitement d'eau automatique, nage à contre-courant, système de protection et sécurité....) est indispensable.</p>
 						<p class="paragraphe">De la piscine privée, en passant par les petits bassins de collectivités comme les espaces aquatiques de camping ou les centres d'aquagym, nous vous proposons l'entretien de vos équipements dans le respect des directives des ARS (Agences régionales de santé).</p>
 					</div>
 					<div class="imgZone2">
@@ -47,7 +47,7 @@
 						<div class="col-12 col-md-6 sauna-hammam-text order-0 order-md-0">
 							<div>
 								<p class="paragraphe">Développé depuis bientôt 50 ans, ce système éco-responsable d’hydraulicité inversée installé dans le fond du bassin permet, grâce à ses buses rotatives, d’<strong>auto nettoyer votre piscine</strong>.</p>
-								<p class="paragraphe">Fonctionnant avec la filtration, il est conçu et adapté sur mesure par notre bureau d’étude.<br>	
+								<p class="paragraphe">Fonctionnant avec la filtration, il est conçu et adapté sur mesure par notre bureau d’étude.<br>
 								<strong>Il remplace les robots et 90% du nettoyage manuel.</strong><br>
 								L’eau filtrée, traitée et chauffée est renvoyée par le fond du bassin permettant ainsi une diffusion totale des produits désinfectants et une répartition de la chaleur dans la totalité du volume d’eau.</p>
 							</div>
@@ -108,13 +108,13 @@
 
 
 
-			
 
-			
+
+
 
 		</div>
 	</section>
-	
+
 	<?php include '_footer.php'; ?>
 
 </body>
