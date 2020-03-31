@@ -2,7 +2,7 @@
 	<div class="container infosFooter">
 		<div>
 			<p class="titleFooter">À propos de nous</p>
-			<p>SENEŌ : piscines, spa, sauna, hammam, aménagements extérieurs & paysagés, design lumière, brumisation, rénovation et entretien.</p>
+			<p>SENEŌ : piscine, spa, sauna, hammam, aménagements extérieur & paysagé, design lumière, brumisation, rénovation et entretien.</p>
 		</div>
 		<div>
 			<p class="titleFooter">Réalisation</p>

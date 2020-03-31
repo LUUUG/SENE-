@@ -5,7 +5,7 @@
 				<a data-navDown href="javascript:;">Prestations <i class="icon-navdown"></i></a>
 				<ul class="subNav">
 					<li><a class="clickLoad" href="prestations.php">Tout</a></li>
-					<li><a class="clickLoad" href="piscines.php">Piscines</a></li>
+					<li><a class="clickLoad" href="piscines.php">Piscine</a></li>
 					<li><a class="clickLoad" href="spa-hammam.php">SPA, Sauna, Hammam</a></li>
 					<li><a class="clickLoad" href="amenagement-exterieur.php">Aménagement Extérieur</a></li>
 					<li><a class="clickLoad" href="renovation.php">Rénovation</a></li>

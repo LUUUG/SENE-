@@ -24,7 +24,7 @@
 		<div class="contentPage savoirFairePage">
 
 			<div class="container xl-container">
-				<h1 class="title title-right" data-title="Piscines">Nos piscines</h1>
+				<h1 class="title title-right" data-title="Piscine">Nos piscines</h1>
 				<div class="savoir-faire-items">
 					<div class="row">
 						<div class="col-12 col-md-6 col-lg-4">

@@ -27,7 +27,7 @@
 				<div class="textImg">
 					<div class="textZone">
 						<h1 class="title" data-title="Vision">Notre vision</h1>
-						<p class="paragraphe">Une expertise complète en matière de gestion de votre projet piscine et son environnement. Une expérience de plus de 30 ans. La symbiose des compétences de deux passionnés, dont le parcours international en termes d’expertise piscine, de logistique mondiale, de direction et méthodologie d’entreprises sont les fondations de SENEŌ.</p>
+						<p class="paragraphe">Une expertise complète en matière de gestion de votre projet piscine et de son environnement. Une expérience de plus de 30 ans. La symbiose des compétences de deux passionnés, dont le parcours international en termes d’expertise piscine, de logistique mondiale, de direction et méthodologie d’entreprises sont les fondations de SENEŌ.</p>
 						<p class="paragraphe">Basée en région lyonnaise, SENEŌ est une entreprise innovante, éco-responsable, répondant à vos attentes, au niveau national et international, avec écoute, disponibilité, éthique et engagement.</p>
 					</div>
 					<div class="imgZone">
@@ -68,7 +68,7 @@
 									<h3>Pierre<br> <span>Gabet</span></h3>
 									<p>Dirigeant</p>
 									<a href="https://www.linkedin.com/in/pierre-gabet-39214223/" target="blank" class="icon-linkedin"></a>
-									<a class="linesHover scrollTo" href="#scrollSlider">En savoir +<span></span><span></span></a>
+									<!-- <a class="linesHover scrollTo" href="#scrollSlider">En savoir +<span></span><span></span></a> -->
 								</div>
 							</div>
 						</div>
@@ -79,7 +79,7 @@
 									<h3>Katia<br> <span>Malacrino</span></h3>
 									<p>Dirigeante</p>
 									<a href="https://www.linkedin.com/in/katia-malacrino-b68798199/" target="blank" class="icon-linkedin"></a>
-									<a class="linesHover scrollTo s-next" href="#scrollSlider">En savoir +<span></span><span></span></a>
+									<!-- <a class="linesHover scrollTo s-next" href="#scrollSlider">En savoir +<span></span><span></span></a> -->
 								</div>
 							</div>
 						</div>

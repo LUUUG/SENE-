@@ -51,7 +51,7 @@
 					</div>
 				</div>
 
-				<h2 class="title title-right" data-title="SPAS">Nos SPAS</h2>
+				<h2 class="title title-right" data-title="SPA">Nos SPAS</h2>
 			</div>
 
 
